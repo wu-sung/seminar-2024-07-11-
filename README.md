@@ -27,6 +27,12 @@
 <p align="center">
   <img src="https://github.com/wu-sung/seminar-2024-07-11-/assets/119473043/79f4da44-4dc1-4479-82e1-7dc09b00f45e" width="800px" height="700px">
 </p>
-![bandicam 2024-07-11 21-15-51-276]()
-![bandicam 2024-07-11 21-16-01-678]()
-![bandicam 2024-07-11 21-16-04-804]()
+
+<p align="center">
+  <img src="https://github.com/wu-sung/seminar-2024-07-11-/assets/119473043/e44f634b-bbcd-4b69-82dc-a3e663be5907" width="600px" height="400px">
+</p>
+
+### 위의 과정을 거치며 pycharm education (무료버전) 설치를 완료합니다.
+
+
+
