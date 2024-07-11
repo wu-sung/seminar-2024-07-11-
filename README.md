@@ -34,4 +34,14 @@
 
 ### 위의 과정을 거치며 pycharm education (무료버전) 설치를 완료합니다.
 
+----
+
+### pytorch 및 torchvision 설치 (버전 호환 중요)
+https://pytorch.org/get-started/previous-versions/
+위의 사이트 참고
+
+### 설치 후 버전에 맞는 cudnn 설치
+> 설치 후 bin, include, lib, cudnn.txt파일을 cuda toolkit을 설치했던 파일경로에 넣어준다.  <br>
+> 넣은 후 환경변수 편집에 들어가 path에 각각 경로를 지정하여 넣어준다.
+  
 
