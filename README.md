@@ -135,8 +135,6 @@ A. CUDA(Computed Unified Device Architecture) NVIDIA 사에서 개발한 GPU (Gr
   <img src="https://github.com/user-attachments/assets/115a3758-42b7-4ec9-ad7e-c04a02e441dc" width="600px" height="500px">
 </p>
 
-https://developer.nvidia.com/rdp/cudnn-archive <br>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7c92a0ef-7503-4800-ac49-c9e3860e0b9c" width="600px" height="500px">
 </p>
@@ -144,6 +142,8 @@ https://developer.nvidia.com/rdp/cudnn-archive <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1fe05ae2-f5ab-4d58-b85e-0bef04eada37" width="600px" height="500px">
 </p>
+
+https://developer.nvidia.com/rdp/cudnn-archive <br>
 
 ### 위의 사이트를 참고하여 버전에 맞게 cudnn을 설치 <br>
 ### 설치 후 bin, include, lib, cudnn.txt파일을 cuda toolkit을 설치했던 파일경로에 넣어준다.  <br>
