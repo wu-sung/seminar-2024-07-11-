@@ -2,6 +2,9 @@
 <br>
 
 ## GPU에 맞는 NVIDIA 드라이버 설치
+Q. NVIDIA 드라이버 왜 필요할까요? <br>
+
+A. 많은 연산을 cpu에서만 담당하게 되면 cpu가 해야할 컴퓨터의 프로세스 관리 업무를 효율적으로 수행하지 못할 뿐더러 요구되는 연산 처리에 대한 소요시간이 증가하기 때문에 gpu를 활용해야 하고 이 때 필요한게 gpu 드라이버
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e9e7879-0b21-428a-b9db-41526f73d75e" width="600px" height="500px">
@@ -81,11 +84,40 @@
 
 ## CUDA 설치
 
+Q. CUDA는 왜 필요한가요? <br>
+
+A. CUDA(Computed Unified Device Architecture) NVIDIA 사에서 개발한 GPU (Graphic Processing Unit)개발 툴루써
+많은 양의 연산을 동시에 처리하기 위해 사용
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f89bc5e-4e67-4504-bf89-6733699929a0" width="600px" height="500px">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35f4085d-99ec-45d1-9652-15cabda4cf84" width="600px" height="500px">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbdae225-9b24-4077-a50a-1106480f96b5" width="600px" height="500px">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62dcf530-803c-4548-8230-a837238ba268" width="600px" height="500px">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c1822a8-2599-4bb0-b99c-d69e5f1241a0" width="600px" height="500px">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd1dee9b-6d80-4690-b6f1-131ff561cc78" width="600px" height="500px">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8374265d-92d2-4b8d-8e32-41fb5c894065" width="600px" height="500px">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8aa8611-f9bb-42f2-9407-68e19a4929d8" width="600px" height="500px">
+</p>
 
 ### pytorch 및 torchvision 설치 (버전 호환 중요)
 https://pytorch.org/get-started/previous-versions/
