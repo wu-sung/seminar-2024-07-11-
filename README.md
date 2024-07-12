@@ -164,10 +164,62 @@ https://developer.nvidia.com/rdp/cudnn-archive <br>
 
 넣은 후 환경변수 편집에 들어가 path에 각각 경로를 지정하여 넣어준다. <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99c79cf1-a941-420f-8bbe-e70d902eed18" width="600px" height="500px">
+  <img src="https://github.com/user-attachments/assets/99c79cf1-a941-420f-8bbe-e70d902eed18" width="500px" height="200px">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90975db3-68c5-47b7-98d9-b341dcfab16a" width="700px" height="370px">
 </p>
 
+* nvcc --verison 명령어를 쳤을 때 위의 사진처럼 나온다면 CUDA라이브러리가 잘 설치된 것
 ----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e51d1f2f-ca29-4238-b8dd-e2cf0d9a4c4b" width="700px" height="370px">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/079e56ad-ab4c-447f-a694-1376557f57c8" width="700px" height="370px">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fa788bf-183c-41eb-9e8c-096d28cd3312" width="700px" height="600px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b80d3713-e770-40ee-a8d2-d2a9e1cbc0f4" width="700px" height="350px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/677d9c9d-2b69-41b2-a674-90c8bcf2cf94" width="700px" height="600px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90813e30-6b85-4557-a198-5a1e0999d032" width="700px" height="600px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90813e30-6b85-4557-a198-5a1e0999d032" width="700px" height="600px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7ecb86e-6045-4f0a-95a6-8de531b357c5" width="700px" height="600px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7ecb86e-6045-4f0a-95a6-8de531b357c5" width="700px" height="600px">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e6812f42-4983-4d48-9446-765fb4f6ad56" width="700px" height="600px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b579ca2-243a-4797-802d-1027a44452f5" width="700px" height="600px">
+</p>
+
+
 
 ### pytorch 및 torchvision 설치 (버전 호환 중요)
 https://pytorch.org/get-started/previous-versions/
