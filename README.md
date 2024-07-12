@@ -122,7 +122,7 @@ A. CUDA(Computed Unified Device Architecture) NVIDIA 사에서 개발한 GPU (Gr
   <img src="https://github.com/user-attachments/assets/cbdae225-9b24-4077-a50a-1106480f96b5" width="600px" height="500px">
 </p>
 
-### 위의 과정을 거쳐 CUDA의 설치를 완료
+### 위의 과정을 거쳐 CUDA(12.2)의 설치를 완료
 
 ----
 
@@ -137,11 +137,35 @@ A. CUDA(Computed Unified Device Architecture) NVIDIA 사에서 개발한 GPU (Gr
 
 https://developer.nvidia.com/rdp/cudnn-archive <br>
 
-### 위의 사이트를 참고하여 버전에 맞게 cudnn을 설치
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c92a0ef-7503-4800-ac49-c9e3860e0b9c" width="600px" height="500px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1fe05ae2-f5ab-4d58-b85e-0bef04eada37" width="600px" height="500px">
+</p>
+
+### 위의 사이트를 참고하여 버전에 맞게 cudnn을 설치 <br>
+### 설치 후 bin, include, lib, cudnn.txt파일을 cuda toolkit을 설치했던 파일경로에 넣어준다.  <br>
+
+- C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2
+위의 경로로 들어가 bin, inlucde, lib디렉터리 위치를 확인 해준다. <br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/070b495c-974a-4a21-9f94-07508889df08" width="600px" height="500px">
+</p>
+
+압축풀기가 된 cuDNN파일에 들어가 각각의 파일들을 옮긴다.(bin, include, lib) <br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb4990cd-16f7-44c7-8a75-3de9871330f1" width="600px" height="500px">
+</p>
 
 
-> 설치 후 bin, include, lib, cudnn.txt파일을 cuda toolkit을 설치했던 파일경로에 넣어준다.  <br>
-> 넣은 후 환경변수 편집에 들어가 path에 각각 경로를 지정하여 넣어준다.
+넣은 후 환경변수 편집에 들어가 path에 각각 경로를 지정하여 넣어준다. <br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99c79cf1-a941-420f-8bbe-e70d902eed18" width="600px" height="500px">
+</p>
 
 ----
 
