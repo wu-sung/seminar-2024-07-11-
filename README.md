@@ -1,6 +1,14 @@
 # 세미나 (환경설정 진행관련)
 <br>
 
+## GPU에 맞는 NVIDIA 드라이버 설치
+
+![bandicam 2024-07-12 10-59-01-342]()
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbdae225-9b24-4077-a50a-1106480f96b5" width="800px" height="700px">
+</p>
+
 ## Pycharm설치
 
 ----
