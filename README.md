@@ -226,5 +226,12 @@ https://developer.nvidia.com/rdp/cudnn-archive <br>
 
 ### pytorch 및 torchvision 설치 (버전 호환 중요)
 https://pytorch.org/get-started/previous-versions/
-위의 사이트 참고
+위의 사이트 참고 <br>
+
+pkg 설치시 오류가 발생하는 이유는 대표적으로 '버전 충돌'인데 왜 발생할까라는 의문이 들었고 이를 찾아본 결과<br>
+
+기존 패키지를 설치하게 되면 cpu로 동작하게 하는 패키지로 설치가 된다.<br>
+
+### 이를 해결하기 위해서는 어떻게 해야할까? <br>
+- 따로 버전을 타겟팅해서 실행을 하면 된다. <br>
 
