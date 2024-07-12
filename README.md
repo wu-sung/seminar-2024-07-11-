@@ -11,6 +11,39 @@
   <img src="https://github.com/user-attachments/assets/8fbbb298-31a7-425f-864e-56b831f96e4a" width="600px" height="500px">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e016f113-9341-4546-8000-49dbe1605f40" width="600px" height="300px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29e40d46-09ee-489d-bbf9-4760fd0e7d1b" width="600px" height="300px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfbc2918-f094-4cbc-8904-220ff90f90a0" width="600px" height="300px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eb5eedf8-d568-48a2-9867-eefc9429e7fc" width="600px" height="300px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfbc2918-f094-4cbc-8904-220ff90f90a0" width="600px" height="300px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfbc2918-f094-4cbc-8904-220ff90f90a0" width="600px" height="300px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b707d68f-301b-4486-b042-ee060a6a5682" width="600px" height="300px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0545f1d-27d3-432c-9099-67df0d0bac64" width="600px" height="300px">
+</p>
+
+
 ## Pycharm설치
 
 ----
