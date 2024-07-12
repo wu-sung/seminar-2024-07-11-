@@ -219,6 +219,9 @@ https://developer.nvidia.com/rdp/cudnn-archive <br>
   <img src="https://github.com/user-attachments/assets/4b579ca2-243a-4797-802d-1027a44452f5" width="700px" height="600px">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea0b999d-bae8-4515-9a57-2580044c3bf0" width="700px" height="600px">
+</p>
 
 
 ### pytorch 및 torchvision 설치 (버전 호환 중요)
