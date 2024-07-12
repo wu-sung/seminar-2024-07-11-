@@ -3,10 +3,12 @@
 
 ## GPU에 맞는 NVIDIA 드라이버 설치
 
-![bandicam 2024-07-12 10-59-01-342]()
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e9e7879-0b21-428a-b9db-41526f73d75e" width="600px" height="500px">
+</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbdae225-9b24-4077-a50a-1106480f96b5" width="800px" height="700px">
+  <img src="https://github.com/user-attachments/assets/8fbbb298-31a7-425f-864e-56b831f96e4a" width="600px" height="500px">
 </p>
 
 ## Pycharm설치
@@ -43,6 +45,14 @@
 ### 위의 과정을 거치며 pycharm education (무료버전) 설치를 완료합니다.
 
 ----
+
+## CUDA 설치
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbdae225-9b24-4077-a50a-1106480f96b5" width="600px" height="500px">
+</p>
+
 
 ### pytorch 및 torchvision 설치 (버전 호환 중요)
 https://pytorch.org/get-started/previous-versions/
