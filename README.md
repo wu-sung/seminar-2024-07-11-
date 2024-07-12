@@ -82,7 +82,7 @@ A. 많은 연산을 cpu에서만 담당하게 되면 cpu가 해야할 컴퓨터�
 
 ----
 
-## CUDA 설치
+## CUDA Toolkit 설치
 
 Q. CUDA는 왜 필요한가요? <br>
 
@@ -94,37 +94,58 @@ A. CUDA(Computed Unified Device Architecture) NVIDIA 사에서 개발한 GPU (Gr
   <img src="https://github.com/user-attachments/assets/5f89bc5e-4e67-4504-bf89-6733699929a0" width="600px" height="500px">
 </p>
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/35f4085d-99ec-45d1-9652-15cabda4cf84" width="600px" height="500px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/62dcf530-803c-4548-8230-a837238ba268" width="600px" height="500px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c1822a8-2599-4bb0-b99c-d69e5f1241a0" width="600px" height="500px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd1dee9b-6d80-4690-b6f1-131ff561cc78" width="600px" height="500px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8374265d-92d2-4b8d-8e32-41fb5c894065" width="600px" height="500px">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8aa8611-f9bb-42f2-9407-68e19a4929d8" width="600px" height="500px">
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbdae225-9b24-4077-a50a-1106480f96b5" width="600px" height="500px">
 </p>
 
+### 위의 과정을 거쳐 CUDA의 설치를 완료
+
+----
+
+### 버전에 맞는 cudnn 설치
+
+## cuDNN이란? <br>
+#### 딥 러닝 및 인공 신경망(ANN) 프레임워크를 가속화하기 위한 라이브러리 (convolution, pooling, normarization, activation)
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62dcf530-803c-4548-8230-a837238ba268" width="600px" height="500px">
+  <img src="https://github.com/user-attachments/assets/115a3758-42b7-4ec9-ad7e-c04a02e441dc" width="600px" height="500px">
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1c1822a8-2599-4bb0-b99c-d69e5f1241a0" width="600px" height="500px">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dd1dee9b-6d80-4690-b6f1-131ff561cc78" width="600px" height="500px">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8374265d-92d2-4b8d-8e32-41fb5c894065" width="600px" height="500px">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f8aa8611-f9bb-42f2-9407-68e19a4929d8" width="600px" height="500px">
-</p>
+
+https://developer.nvidia.com/rdp/cudnn-archive <br>
+
+### 위의 사이트를 참고하여 버전에 맞게 cudnn을 설치
+
+
+> 설치 후 bin, include, lib, cudnn.txt파일을 cuda toolkit을 설치했던 파일경로에 넣어준다.  <br>
+> 넣은 후 환경변수 편집에 들어가 path에 각각 경로를 지정하여 넣어준다.
+
+----
 
 ### pytorch 및 torchvision 설치 (버전 호환 중요)
 https://pytorch.org/get-started/previous-versions/
 위의 사이트 참고
-
-### 설치 후 버전에 맞는 cudnn 설치
-> 설치 후 bin, include, lib, cudnn.txt파일을 cuda toolkit을 설치했던 파일경로에 넣어준다.  <br>
-> 넣은 후 환경변수 편집에 들어가 path에 각각 경로를 지정하여 넣어준다.
-  
 
